@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "mysql2": "^2.2.5",
-    "sequelize": "^6.6.2"
+    "sequelize": "^6.6.4"
   },
   "devDependencies": {},
   "scripts": {
@@ -13,12 +13,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KritikaSharmaKS/Sequelize-Youtube.git"
+    "url": "git+https://github.com/anjali030/Sequelize.git"
   },
   "author": "Kritika Sharma",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/KritikaSharmaKS/Sequelize-Youtube/issues"
-  },
-  "homepage": "https://github.com/KritikaSharmaKS/Sequelize-Youtube#readme"
+  "license": "ISC"
 }
